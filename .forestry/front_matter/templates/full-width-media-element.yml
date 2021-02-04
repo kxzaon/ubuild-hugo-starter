@@ -11,3 +11,5 @@ fields:
   template: media-element
   name: media_element
   label: Media Element
+pages:
+- content/Test.md
